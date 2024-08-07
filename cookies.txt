@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	UnOn2ewPcetEgvgxFbfFfSUG0enzf25AwcAc4vjFFaM-1723007231-1.0.1.1-iDPOyvvrWdMqmUrvrezaRCF5ZpUSrkbYefoq1_H7FJwS9M3Kc0eD5zGboKlXVIlX
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	QQNuC.h0otnCuXczkOIpGeOaO.5Yq_o7EI7F6etmSbU-1723007231352-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+shivamholidays.in	TRUE	/	FALSE	1999999999	_wp_session	e669dbd9903173535cac6163a4dab6f9%7C%7C1723008954%7C%7C1723008594
+

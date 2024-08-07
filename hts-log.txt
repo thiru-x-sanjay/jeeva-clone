@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Aug 2024 10:35:38 at https://shivamholidays.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shivamholidays.in/ -O1 "C:\Users\dayan\Downloads\jeeva and mansoor\jeeva" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:37:11	Error: 	"Not Found" (404) at link https://shivamholidays.in/wp-content/plugins/designthemes-core-features/shortcodes/css/PIE.htc (from https://shivamholidays.in/wp-content/plugins/designthemes-core-features/shortcodes/css/shortcodes.css?ver=6.6.1)
+10:37:12	Error: 	"Not Found" (404) at link https://shivamholidays.in/wp-content/themes/images/bordered-circle.png (from https://shivamholidays.in/wp-content/themes/style.css?ver=2.4)
+10:37:12	Error: 	"Not Found" (404) at link https://shivamholidays.in/wp-content/themes/images/slanting-bg.png (from https://shivamholidays.in/wp-content/themes/style.css?ver=2.4)
+10:37:14	Error: 	"Not Found" (404) at link https://shivamholidays.in/click.T (from https://shivamholidays.in/wp-content/plugins/designthemes-core-features/shortcodes/js/jquery.tabs.min.js?ver=6.6.1)
+10:37:14	Error: 	"Not Found" (404) at link https://shivamholidays.in/dummy.png (from https://shivamholidays.in/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.16)
+10:37:14	Warning: 	Moved Permanently for https://shivamholidays.in/origin=https://
+10:37:14	Warning: 	Redirected link is identical because of 'URL Hack' option: https://shivamholidays.in/origin=https:// and https://shivamholidays.in/origin=https:/
+10:37:14	Warning: 	File has moved from https://shivamholidays.in/origin=https:// to https://shivamholidays.in/origin=https:/
+10:37:14	Error: 	"Not Found" (404) at link https://shivamholidays.in/youtu.be/ (from https://shivamholidays.in/wp-content/themes/functions/js/jquery.plugins.js?ver=6.6.1)
+10:37:14	Error: 	"Not Found" (404) at link https://shivamholidays.in/HEAD (from https://shivamholidays.in/wp-content/themes/functions/js/jquery.plugins.js?ver=6.6.1)
+10:37:14	Error: 	"Not Found" (404) at link https://shivamholidays.in/vimeo.com/ (from https://shivamholidays.in/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.18)
+10:37:14	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15448
+10:37:14	Warning: 	File has moved from https://shivamholidays.in/?p=15448 to https://shivamholidays.in/dt_portfolios/tate-eleifend-vulpu/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15447
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15447 to https://shivamholidays.in/dt_portfolios/vulputate-eleifend/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15449
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15449 to https://shivamholidays.in/dt_portfolios/luctus-pulvinar-hendrerit/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15451
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15451 to https://shivamholidays.in/dt_portfolios/maecenas-tempus-tellus/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15450
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15450 to https://shivamholidays.in/dt_portfolios/cras-dapibus-vivamus/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15446
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15446 to https://shivamholidays.in/dt_portfolios/integer-tincidunt/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15445
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15445 to https://shivamholidays.in/dt_portfolios/pede-mollis-pretium/
+10:37:33	Warning: 	Moved Permanently for https://shivamholidays.in/?p=15436
+10:37:33	Warning: 	File has moved from https://shivamholidays.in/?p=15436 to https://shivamholidays.in/dt_portfolios/etiam-ultricies-nisivel/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 55 seconds : 315 links scanned, 297 files written (10525605 bytes overall) [4748384 bytes received at 41290 bytes/sec], 9795907 bytes transferred using HTTP compression in 156 files, ratio 27%, 22.7 requests per connection
+(8 errors, 19 warnings, 0 messages)
